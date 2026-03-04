@@ -13,6 +13,7 @@
 Використовувати докладні коментарі для автоматичної генерації
 документації засобами javadoc.
 #### Скріншоти завдання
+CalculationData
 ![Код](https://github.com/Yarickkk/zav2/blob/main/1.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/2.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/3.png)
