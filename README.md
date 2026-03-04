@@ -26,5 +26,8 @@ CalculatorTest
 
 ![Код](https://github.com/Yarickkk/zav2/blob/main/4.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/5.png)
+
+SerializationDemo
+
 ![Код](https://github.com/Yarickkk/zav2/blob/main/6.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/7.png)
