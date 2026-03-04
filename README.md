@@ -48,3 +48,7 @@ NumberSystemsTask
 NumberSystemsShort
 
 ![Код](https://github.com/Yarickkk/zav2/blob/main/11.png)
+
+Приклад роботи
+
+![Приклад](https://github.com/Yarickkk/zav2/blob/main/12.png)
