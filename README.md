@@ -14,6 +14,7 @@
 документації засобами javadoc.
 #### Скріншоти завдання
 <p>CalculationData</p>
+
 ![Код](https://github.com/Yarickkk/zav2/blob/main/1.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/2.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/3.png)
