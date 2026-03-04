@@ -39,3 +39,12 @@ SerializationDemo
 ### Індивідуальне завдання
 10. Підрахувати кількість 16-річних та 8-річних цифр у заданому значенні
 десяткового числа.
+
+NumberSystemsTask
+
+![Код](https://github.com/Yarickkk/zav2/blob/main/9.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/10.png)
+
+NumberSystemsShort
+
+![Код](https://github.com/Yarickkk/zav2/blob/main/11.png)
