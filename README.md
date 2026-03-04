@@ -31,3 +31,7 @@ SerializationDemo
 
 ![Код](https://github.com/Yarickkk/zav2/blob/main/6.png)
 ![Код](https://github.com/Yarickkk/zav2/blob/main/7.png)
+
+Приклад роботи
+
+![Приклад](https://github.com/Yarickkk/zav2/blob/main/8.png)
