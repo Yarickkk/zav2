@@ -13,3 +13,10 @@
 Використовувати докладні коментарі для автоматичної генерації
 документації засобами javadoc.
 #### Скріншоти завдання
+![Код](https://github.com/Yarickkk/zav2/blob/main/1.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/2.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/3.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/4.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/5.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/6.png)
+![Код](https://github.com/Yarickkk/zav2/blob/main/7.png)
